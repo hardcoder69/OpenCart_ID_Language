@@ -1,2 +1,0 @@
-
-- Copy folder indonesia ini ke folder /admin/language/
