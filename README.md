@@ -6,7 +6,7 @@ Bahasa Indonesia language for Opencart.
 Requirements
 ------------
 
-* Opencart v1.5.5.* - 1.5.6.2 ([link] (http://www.opencart.com/index.php?route=download/download))
+* Opencart v1.5.5.* - v1.5.6.3 ([link] (http://www.opencart.com/index.php?route=download/download))
 
 Installation
 ------------
