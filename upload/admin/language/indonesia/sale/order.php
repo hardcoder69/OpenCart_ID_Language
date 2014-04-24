@@ -3,6 +3,9 @@
 $_['heading_title']                           = 'Pesanan';
 
 // Text
+
+$_['text_amazon_order_id']                    = 'ID Order Amazon:';
+$_['text_name']                               = 'Nama:';
 $_['text_success']                            = 'Sukses: Anda telah memodifikasi pesanan!';
 $_['text_order_id']                           = 'ID Pesanan:';
 $_['text_invoice_no']                         = 'No. Faktur:';
@@ -44,7 +47,7 @@ $_['text_download']                           = 'Download Pesanan';
 $_['text_invoice']                            = 'Faktur';
 $_['text_to']                                 = 'Kepada';
 $_['text_ship_to']                            = 'Kirim ke (jika alamat berbeda)';
-$_['text_missing']                            = 'Pesanan yang Hilang';
+$_['text_missing']                            = 'Missing Orders';
 $_['text_default']                            = 'Default';
 $_['text_wait']                               = 'Silahkan Tunggu!';
 $_['text_product']                            = 'Tambah Produk(s)';

@@ -1,0 +1,23 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro for Amazon US | My Account';
+$_['lang_my_account']               = 'Akun Saya';
+$_['lang_openbay']                  = 'OpenBay Pro';
+$_['lang_overview']                 = 'Amazon US Overview';
+$_['lang_my_account']               = 'Akun Saya';
+$_['lang_btn_return']               = 'Batal';
+$_['lang_current_plan']             = 'Rencana saat ini';
+$_['lang_register_invite']          = "Tidak memiliki kredensial? Daftar sekarang untuk mendapatkan mereka";
+$_['lang_register']                 = 'Registrasi';
+$_['lang_loading']                  = 'Loading';
+$_['lang_change_plans']             = 'Rubah rencana';
+$_['lang_your_plan']                = 'Rencana Anda saat ini dan saldo rekening';
+$_['lang_change_plan']              = 'Rubah rencana';
+$_['lang_change_plans_help']        = 'Tidak puas dengan rencana anda?';
+$_['lang_name']                     = 'Nama';
+$_['lang_description']              = 'Deskripsi';
+$_['lang_price']                    = 'Harga';
+$_['lang_order_frequency']          = 'Frekuensi Order impor';
+$_['lang_product_listings']         = 'Daftar produk baru per bulan';
+$_['lang_listings_remaining']       = 'Daftar produk yang tersisa';
+$_['lang_listings_reserved']        = 'Produk sedang diproses';
+$_['lang_account_status']           = 'Status account';

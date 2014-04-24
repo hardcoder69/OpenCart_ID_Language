@@ -74,6 +74,27 @@ $_['entry_related']          = 'Produk Terkait:<br /><span class="help">(Autocom
 $_['entry_tag']          	 = 'Tag Produk:<br /><span class="help">dipisahkan dengan koma</span>';
 $_['entry_reward']           = 'Poin Hadiah:';
 $_['entry_layout']           = 'Tata Letak Override:';
+$_['entry_profile']          = 'Profil:';
+
+$_['text_recurring_help']    = 'Recurring amounts are calculated by the frequency and cycles. <br />For example if you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks. <br />The length is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.';
+$_['text_recurring_title']   = 'Pembayaran berkala';
+$_['text_recurring_trial']   = 'Masa percobaan';
+$_['entry_recurring']        = 'Penagihan berulang:';
+$_['entry_recurring_price']  = 'Harga berulang:';
+$_['entry_recurring_freq']   = 'Frekuensi berulang:';
+$_['entry_recurring_cycle']  = 'Siklus berulang:<span class="help">Seberapa sering ditagih nya, harus 1 atau lebih</span>';
+$_['entry_recurring_length'] = 'Panjang berulang:<span class="help">0 = sampai dibatalkan</span>';
+$_['entry_trial']            = 'Masa percobaan:';
+$_['entry_trial_price']      = 'Percobaan Harga berulang:';
+$_['entry_trial_freq']       = 'Percobaan frekuensi berulang:';
+$_['entry_trial_cycle']      = 'Siklus berulang percobaan:<span class="help">Seberapa sering ditagih nya, harus 1 atau lebih</span>';
+$_['entry_trial_length']     = 'Percobaan panjang berulang:';
+
+$_['text_length_day']        = 'Hari';
+$_['text_length_week']       = 'Minggu';
+$_['text_length_month']      = 'Bulan';
+$_['text_length_month_semi'] = 'Stengah Bulan';
+$_['text_length_year']       = 'Tahun';
 
 // Error
 $_['error_warning']          = 'Peringatan: Silahkan periksa form dengan seksama untuk error!';

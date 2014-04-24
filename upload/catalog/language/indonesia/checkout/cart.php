@@ -21,6 +21,17 @@ $_['text_shipping_estimate'] = 'Simulasi Biaya Kirim';
 $_['text_shipping_detail']   = 'Masukkan tujuan Anda untuk mendapatkan perkiraan biaya pengiriman.';
 $_['text_shipping_method']   = 'Silahkan pilih metode pengiriman yang disukai untuk mengirim pesanan Anda.';
 $_['text_empty']             = 'Keranjang Belanja Anda kosong!';
+$_['text_until_cancelled']   = 'sampai dibatalkan';
+$_['text_recurring_item']    = 'Item berulang';
+$_['text_payment_profile']   = 'Profil Pembayaran';
+$_['text_trial_description'] = '%s setiap %d %s(s) untuk %d pembayaran(s) kemudian';
+$_['text_payment_description'] = '%s setiap %d %s(s) untuk %d pembayaran(s)';
+$_['text_payment_until_canceled_description'] = '%s setiap %d %s(s) sampai dibatalkan';
+$_['text_day']               = 'hari';
+$_['text_week']              = 'minggu';
+$_['text_semi_month']        = 'setengah bulan';
+$_['text_month']             = 'bulan';
+$_['text_year']              = 'tahun';
 
 // Column
 $_['column_image']           = 'Gambar';
@@ -53,4 +64,9 @@ $_['error_country']          = 'Silahkan pilih Propinsi!';
 $_['error_zone']             = 'Silahkan pilih Kab / Kota!';
 $_['error_shipping']         = 'Peringatan: Metode pengiriman diperlukan!';
 $_['error_no_shipping']      = 'Peringatan: Tidak ada opsi pengiriman yang tersedia. Silahkan <a href="%s">hubungi kami</a>!';
+$_['error_profile_required'] = 'Silahkan pilih profil pembayaran!';
+
+$_['text_trial']             = '%s setiap %s %s untuk %s pembayaran kemudian ';
+$_['text_recurring']         = '%s setiap %s %s';
+$_['text_length']            = ' untuk %s pembayaran';
 ?>

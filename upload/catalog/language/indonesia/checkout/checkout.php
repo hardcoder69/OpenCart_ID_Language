@@ -30,6 +30,17 @@ $_['text_shipping_method']           = 'Silahkan pilih metode pengiriman yang di
 $_['text_payment_method']            = 'Silahkan pilih metode pembayaran yang disukai untuk membayar pesanan Anda.';
 $_['text_comments']                  = 'Tambahkan komentar mengenai pesanan Anda';
 
+$_['text_recurring_item']    = 'Item berulang';
+$_['text_payment_profile']   = 'Profil Pembayaran';
+$_['text_trial_description'] = '%s setiap %d %s(s) untuk %d pembayaran(s) kemudian';
+$_['text_payment_description'] = '%s setiap %d %s(s) untuk %d pembayaran(s)';
+$_['text_payment_until_canceled_description'] = '%s setiap %d %s(s) sampai dibatalkan';
+$_['text_day']               = 'hari';
+$_['text_week']              = 'minggu';
+$_['text_semi_month']        = 'setengah bulan';
+$_['text_month']             = 'bulan';
+$_['text_year']              = 'tahun';
+
 // Column
 $_['column_name']                    = 'Nama Produk';
 $_['column_model']                   = 'Model';
@@ -84,4 +95,8 @@ $_['error_shipping']                 = 'Peringatan: Metode pengiriman diperlukan
 $_['error_no_shipping']              = 'Peringatan: Tidak ada pilihan pengiriman yang tersedia. Silahkan <a href="%s">hubungi kami</a>!';
 $_['error_payment']                  = 'Peringatan: Metode pambayaran diperlukan!';
 $_['error_no_payment']               = 'Peringatan: Tidak ada pilihan pembayaran yang tersedia. Silahkan <a href="%s">hubungi kami</a>!';
+
+$_['text_trial']             = '%s setiap %s %s untuk %s pembayaran kemudian ';
+$_['text_recurring']         = '%s setiap %s %s';
+$_['text_length']            = ' untuk %s pembayaran';
 ?>

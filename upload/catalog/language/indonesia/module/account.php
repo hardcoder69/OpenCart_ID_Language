@@ -17,4 +17,5 @@ $_['text_download']    = 'Download';
 $_['text_return']      = 'Retur';
 $_['text_transaction'] = 'Transaksi';
 $_['text_newsletter']  = 'Berita';
+$_['text_recurring']   = 'Pembayaran berulang';
 ?>

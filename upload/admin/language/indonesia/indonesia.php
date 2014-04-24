@@ -70,6 +70,7 @@ $_['button_add_link']               = 'Tambah Link';
 $_['button_update_total']           = 'Update Totals';
 $_['button_approve']                = 'Setujui';
 $_['button_reset']                  = 'Reset';
+$_['button_add_profile']            = 'Tambah Profil';
 
 // Tab
 $_['tab_address']                   = 'Alamat';
@@ -93,17 +94,20 @@ $_['tab_store']                     = 'Toko';
 $_['tab_special']                   = 'Spesial';
 $_['tab_local']                     = 'Local';
 $_['tab_mail']                      = 'Mail';
+$_['tab_marketplace_links']         = 'Link Pasar';
 $_['tab_module']                    = 'Modul';
 $_['tab_order']                     = 'Detail Pesanan';
 $_['tab_payment']                   = 'Detail Pembayaran';
 $_['tab_product']                   = 'Produk';
 $_['tab_return']                    = 'Detail Retur';
 $_['tab_reward']                    = 'Poin Hadian';
+$_['tab_profile']                   = 'Profil';
 $_['tab_shipping']                  = 'Detail Pengiriman';
 $_['tab_total']                     = 'Total';
 $_['tab_transaction']               = 'Transaksi';
 $_['tab_voucher']                   = 'Voucher';
 $_['tab_voucher_history']           = 'History Voucher';
+$_['tab_price']                     = 'Harga';
 
 // Error
 $_['error_upload_1']                = 'Peringatan : File yang diunggah melebihi batas maksimal ukuran file yang dapat dimuat langsung dalam file php.ini!';

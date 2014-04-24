@@ -17,4 +17,6 @@ $_['text_reward']        = 'Point Reward Anda';
 $_['text_return']        = 'Tampilkan permintaan retur Anda'; 
 $_['text_transaction']   = 'Transaksi Anda'; 
 $_['text_newsletter']    = 'Berlangganan / Stop berita';
+$_['text_recurring']     = 'Pembayaran berkala';
+$_['text_transactions']  = 'Transaksi';
 ?>
